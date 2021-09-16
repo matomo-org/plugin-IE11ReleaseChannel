@@ -1,0 +1,20 @@
+{
+    "name": "IE11ReleaseChannel",
+    "description": "Adds a new release channel that is still compatibile with Internet Explorer 11.",
+    "version": "4.0.0",
+    "theme": false,
+    "require": {
+        "piwik": ">=3.0.0-b1,<5.0.0-b1",
+        "matomo": ">=3.0.0-b1,<5.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Matomo",
+            "email": "hello@matomo.org",
+            "homepage": "https://matomo.org"
+        }
+    ],
+    "homepage": "https://matomo.org",
+    "license": "GPL v3+",
+    "keywords": ["matomo", "release", "ie11", "explorer", "ie", "internet explorer"]
+}
