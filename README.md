@@ -1,4 +1,4 @@
-# Matomo MatomoCustomRelease Plugin
+# Matomo IE11ReleaseChannel Plugin
 
 ## Description
 

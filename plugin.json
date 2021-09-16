@@ -1,6 +1,6 @@
 {
     "name": "IE11ReleaseChannel",
-    "description": "Adds a new release channel that is still compatibile with Internet Explorer 11.",
+    "description": "Adds a new release channel that is still compatible with Internet Explorer 11.",
     "version": "4.0.0",
     "theme": false,
     "require": {
