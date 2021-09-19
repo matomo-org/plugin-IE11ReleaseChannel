@@ -1,7 +1,7 @@
 {
     "name": "IE11ReleaseChannel",
     "description": "Adds a new release channel that is still compatible with Internet Explorer 11.",
-    "version": "4.0.0",
+    "version": "4.0.1",
     "theme": false,
     "require": {
         "piwik": ">=3.0.0-b1,<5.0.0-b1",
