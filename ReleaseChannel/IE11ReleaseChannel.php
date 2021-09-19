@@ -22,11 +22,6 @@ class IE11ReleaseChannel extends ReleaseChannel
         return 'Internet Explorer 11 Compatible';
     }
 
-    public function getUrlToCheckForLatestAvailableVersion()
-    {
-        return 'https://builds.matomo.org/latest_matomo_ie11';
-    }
-
     public function getOrder()
     {
         return 1;
